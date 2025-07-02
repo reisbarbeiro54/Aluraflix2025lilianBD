@@ -11,6 +11,6 @@ h1 {
 p {
     font-size: 20px;
 header{
-    boder: solid 2px rgb(42, 122, 228);
+    boder bottom: solid 2px rgb(42, 122, 228);
 
 }
